@@ -1,6 +1,6 @@
-# ParticleLife
+Particle Life - Tom Mohr does a great job explaining it here:
+https://www.youtube.com/watch?v=p4YirERTVF0&t=174s
 
-Looking to improve:
-How the boundary condition is done
-Integrating space partitioning to improve speed and particle amounts
-Converting from normalized to euclidean space (0,1 to x,x)
+This project served as a way to learn basic JS and the HTML canvas.
+I implemented a 2D and 3D version greatly inspired by Tom Mohr.
+I also created 2 other visualizations for grid and lattice partitioning.
