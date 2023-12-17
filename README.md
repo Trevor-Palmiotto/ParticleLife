@@ -7,6 +7,8 @@ I also created 2 visualizations for grid and lattice partitioning.
 
 2D: index2D and particleLifeClass2D
 Visualize grid partitioning w/ wrapping using:
+NearestNbr2D and gridPartitioning
 
 3D: index3D and particleLifeClass3D
 Visualize lattice partitioning w/ wrapping using:
+NearestNbr3D and Draw3D
