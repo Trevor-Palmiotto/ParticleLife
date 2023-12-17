@@ -284,7 +284,6 @@ requestAnimationFrame(draw);
 // events
 window.addEventListener('click', function(){
     matrix = makeRandomMatrix();
-    draw();
 });
 window.addEventListener('resize', function() {
     reDim();
